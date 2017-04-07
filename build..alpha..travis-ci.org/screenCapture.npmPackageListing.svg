@@ -1,155 +1,155 @@
 <svg height="2430" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2430" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 08:50:50 +0000   879203 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 08:50:50 +0000    54279 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 08:50:50 +0000     1527 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 08:50:50 +0000     1959 bytes  PATENTS</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 08:50:50 +0000    20249 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 08:50:50 +0000      906 bytes  bin/dev</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 08:50:50 +0000       68 bytes  bin/parse-live-query-server</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 08:50:50 +0000       57 bytes  bin/parse-server</tspan>
-<tspan x="10" y="154">  8.  2017-04-07 08:50:50 +0000     7146 bytes  lib/AccountLockout.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-07 08:50:50 +0000     1279 bytes  lib/Adapters/AdapterLoader.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-07 08:50:50 +0000     1710 bytes  lib/Adapters/Analytics/AnalyticsAdapter.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-07 08:50:50 +0000     1614 bytes  lib/Adapters/Auth/AuthAdapter.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-07 08:50:50 +0000     7036 bytes  lib/Adapters/Auth/OAuth1Client.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-07 08:50:50 +0000     1645 bytes  lib/Adapters/Auth/facebook.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-07 08:50:50 +0000     1332 bytes  lib/Adapters/Auth/github.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-07 08:50:50 +0000     1952 bytes  lib/Adapters/Auth/google.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-07 08:50:50 +0000     3605 bytes  lib/Adapters/Auth/index.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-07 08:50:50 +0000     1247 bytes  lib/Adapters/Auth/instagram.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-07 08:50:50 +0000     1742 bytes  lib/Adapters/Auth/janraincapture.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-07 08:50:50 +0000     2014 bytes  lib/Adapters/Auth/janrainengage.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-07 08:50:50 +0000     1460 bytes  lib/Adapters/Auth/linkedin.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-07 08:50:50 +0000     1303 bytes  lib/Adapters/Auth/meetup.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-07 08:50:50 +0000     1501 bytes  lib/Adapters/Auth/qq.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-07 08:50:50 +0000     1693 bytes  lib/Adapters/Auth/spotify.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-07 08:50:50 +0000     1859 bytes  lib/Adapters/Auth/twitter.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-07 08:50:50 +0000     2322 bytes  lib/Adapters/Auth/vkontakte.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-07 08:50:50 +0000     1233 bytes  lib/Adapters/Auth/wechat.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-07 08:50:50 +0000     1738 bytes  lib/Adapters/Auth/weibo.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-07 08:50:50 +0000     1711 bytes  lib/Adapters/Cache/CacheAdapter.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-07 08:50:50 +0000     2459 bytes  lib/Adapters/Cache/InMemoryCache.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-07 08:50:50 +0000     1931 bytes  lib/Adapters/Cache/InMemoryCacheAdapter.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-07 08:50:50 +0000     1467 bytes  lib/Adapters/Cache/NullCacheAdapter.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-07 08:50:50 +0000     3771 bytes  lib/Adapters/Cache/RedisCacheAdapter.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-07 08:50:50 +0000     1631 bytes  lib/Adapters/Email/MailAdapter.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-07 08:50:50 +0000     2248 bytes  lib/Adapters/Files/FilesAdapter.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-07 08:50:50 +0000     7716 bytes  lib/Adapters/Files/GridStoreAdapter.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-07 08:50:50 +0000     1374 bytes  lib/Adapters/Logger/LoggerAdapter.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-07 08:50:50 +0000     4016 bytes  lib/Adapters/Logger/WinstonLogger.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-07 08:50:50 +0000     3934 bytes  lib/Adapters/Logger/WinstonLoggerAdapter.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-07 08:50:50 +0000     3540 bytes  lib/Adapters/MessageQueue/EventEmitterMQ.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-07 08:50:50 +0000     3448 bytes  lib/Adapters/PubSub/EventEmitterPubSub.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-07 08:50:50 +0000      712 bytes  lib/Adapters/PubSub/RedisPubSub.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-07 08:50:50 +0000     1653 bytes  lib/Adapters/Push/PushAdapter.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-07 08:50:50 +0000     5258 bytes  lib/Adapters/Storage/Mongo/MongoCollection.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-07 08:50:50 +0000     8624 bytes  lib/Adapters/Storage/Mongo/MongoSchemaCollection\</tspan>
+<tspan x="10" y="26">  0.  2017-04-07 08:52:52 +0000   879203 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-07 08:52:52 +0000    54279 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-07 08:52:52 +0000     1527 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-07 08:52:52 +0000     1959 bytes  PATENTS</tspan>
+<tspan x="10" y="90">  4.  2017-04-07 08:52:52 +0000    20249 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-07 08:52:52 +0000      906 bytes  bin/dev</tspan>
+<tspan x="10" y="122">  6.  2017-04-07 08:52:52 +0000       68 bytes  bin/parse-live-query-server</tspan>
+<tspan x="10" y="138">  7.  2017-04-07 08:52:52 +0000       57 bytes  bin/parse-server</tspan>
+<tspan x="10" y="154">  8.  2017-04-07 08:52:52 +0000     7146 bytes  lib/AccountLockout.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-07 08:52:52 +0000     1279 bytes  lib/Adapters/AdapterLoader.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-07 08:52:52 +0000     1710 bytes  lib/Adapters/Analytics/AnalyticsAdapter.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-07 08:52:52 +0000     1614 bytes  lib/Adapters/Auth/AuthAdapter.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-07 08:52:52 +0000     7036 bytes  lib/Adapters/Auth/OAuth1Client.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-07 08:52:52 +0000     1645 bytes  lib/Adapters/Auth/facebook.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-07 08:52:52 +0000     1332 bytes  lib/Adapters/Auth/github.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-07 08:52:52 +0000     1952 bytes  lib/Adapters/Auth/google.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-07 08:52:52 +0000     3605 bytes  lib/Adapters/Auth/index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-07 08:52:52 +0000     1247 bytes  lib/Adapters/Auth/instagram.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-07 08:52:52 +0000     1742 bytes  lib/Adapters/Auth/janraincapture.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-07 08:52:52 +0000     2014 bytes  lib/Adapters/Auth/janrainengage.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-07 08:52:52 +0000     1460 bytes  lib/Adapters/Auth/linkedin.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-07 08:52:52 +0000     1303 bytes  lib/Adapters/Auth/meetup.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-07 08:52:52 +0000     1501 bytes  lib/Adapters/Auth/qq.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-07 08:52:52 +0000     1693 bytes  lib/Adapters/Auth/spotify.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-07 08:52:52 +0000     1859 bytes  lib/Adapters/Auth/twitter.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-07 08:52:52 +0000     2322 bytes  lib/Adapters/Auth/vkontakte.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-07 08:52:52 +0000     1233 bytes  lib/Adapters/Auth/wechat.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-07 08:52:52 +0000     1738 bytes  lib/Adapters/Auth/weibo.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-07 08:52:52 +0000     1711 bytes  lib/Adapters/Cache/CacheAdapter.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-07 08:52:52 +0000     2459 bytes  lib/Adapters/Cache/InMemoryCache.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-07 08:52:52 +0000     1931 bytes  lib/Adapters/Cache/InMemoryCacheAdapter.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-07 08:52:52 +0000     1467 bytes  lib/Adapters/Cache/NullCacheAdapter.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-07 08:52:52 +0000     3771 bytes  lib/Adapters/Cache/RedisCacheAdapter.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-07 08:52:52 +0000     1631 bytes  lib/Adapters/Email/MailAdapter.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-07 08:52:52 +0000     2248 bytes  lib/Adapters/Files/FilesAdapter.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-07 08:52:52 +0000     7716 bytes  lib/Adapters/Files/GridStoreAdapter.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-07 08:52:52 +0000     1374 bytes  lib/Adapters/Logger/LoggerAdapter.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-07 08:52:52 +0000     4016 bytes  lib/Adapters/Logger/WinstonLogger.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-07 08:52:52 +0000     3934 bytes  lib/Adapters/Logger/WinstonLoggerAdapter.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-07 08:52:52 +0000     3540 bytes  lib/Adapters/MessageQueue/EventEmitterMQ.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-07 08:52:52 +0000     3448 bytes  lib/Adapters/PubSub/EventEmitterPubSub.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-07 08:52:52 +0000      712 bytes  lib/Adapters/PubSub/RedisPubSub.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-07 08:52:52 +0000     1653 bytes  lib/Adapters/Push/PushAdapter.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-07 08:52:52 +0000     5258 bytes  lib/Adapters/Storage/Mongo/MongoCollection.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-07 08:52:52 +0000     8624 bytes  lib/Adapters/Storage/Mongo/MongoSchemaCollection\</tspan>
 <tspan x="10" y="746">.js</tspan>
-<tspan x="10" y="762"> 45.  2017-04-07 08:50:50 +0000    20387 bytes  lib/Adapters/Storage/Mongo/MongoStorageAdapter.j\</tspan>
+<tspan x="10" y="762"> 45.  2017-04-07 08:52:52 +0000    20387 bytes  lib/Adapters/Storage/Mongo/MongoStorageAdapter.j\</tspan>
 <tspan x="10" y="778">s</tspan>
-<tspan x="10" y="794"> 46.  2017-04-07 08:50:50 +0000    34801 bytes  lib/Adapters/Storage/Mongo/MongoTransform.js</tspan>
-<tspan x="10" y="810"> 47.  2017-04-07 08:50:50 +0000      665 bytes  lib/Adapters/Storage/Postgres/PostgresClient.js</tspan>
-<tspan x="10" y="826"> 48.  2017-04-07 08:50:50 +0000     1611 bytes  lib/Adapters/Storage/Postgres/PostgresConfigPars\</tspan>
+<tspan x="10" y="794"> 46.  2017-04-07 08:52:52 +0000    34801 bytes  lib/Adapters/Storage/Mongo/MongoTransform.js</tspan>
+<tspan x="10" y="810"> 47.  2017-04-07 08:52:52 +0000      665 bytes  lib/Adapters/Storage/Postgres/PostgresClient.js</tspan>
+<tspan x="10" y="826"> 48.  2017-04-07 08:52:52 +0000     1611 bytes  lib/Adapters/Storage/Postgres/PostgresConfigPars\</tspan>
 <tspan x="10" y="842">er.js</tspan>
-<tspan x="10" y="858"> 49.  2017-04-07 08:50:50 +0000    55787 bytes  lib/Adapters/Storage/Postgres/PostgresStorageAda\</tspan>
+<tspan x="10" y="858"> 49.  2017-04-07 08:52:52 +0000    55787 bytes  lib/Adapters/Storage/Postgres/PostgresStorageAda\</tspan>
 <tspan x="10" y="874">pter.js</tspan>
-<tspan x="10" y="890"> 50.  2017-04-07 08:50:50 +0000      336 bytes  lib/Adapters/Storage/Postgres/sql/array/add-uniq\</tspan>
+<tspan x="10" y="890"> 50.  2017-04-07 08:52:52 +0000      336 bytes  lib/Adapters/Storage/Postgres/sql/array/add-uniq\</tspan>
 <tspan x="10" y="906">ue.sql</tspan>
-<tspan x="10" y="922"> 51.  2017-04-07 08:50:50 +0000      311 bytes  lib/Adapters/Storage/Postgres/sql/array/add.sql</tspan>
-<tspan x="10" y="938"> 52.  2017-04-07 08:50:50 +0000      347 bytes  lib/Adapters/Storage/Postgres/sql/array/contains\</tspan>
+<tspan x="10" y="922"> 51.  2017-04-07 08:52:52 +0000      311 bytes  lib/Adapters/Storage/Postgres/sql/array/add.sql</tspan>
+<tspan x="10" y="938"> 52.  2017-04-07 08:52:52 +0000      347 bytes  lib/Adapters/Storage/Postgres/sql/array/contains\</tspan>
 <tspan x="10" y="954">-all.sql</tspan>
-<tspan x="10" y="970"> 53.  2017-04-07 08:50:50 +0000      317 bytes  lib/Adapters/Storage/Postgres/sql/array/contains\</tspan>
+<tspan x="10" y="970"> 53.  2017-04-07 08:52:52 +0000      317 bytes  lib/Adapters/Storage/Postgres/sql/array/contains\</tspan>
 <tspan x="10" y="986">.sql</tspan>
-<tspan x="10" y="1002"> 54.  2017-04-07 08:50:50 +0000      328 bytes  lib/Adapters/Storage/Postgres/sql/array/remove.s\</tspan>
+<tspan x="10" y="1002"> 54.  2017-04-07 08:52:52 +0000      328 bytes  lib/Adapters/Storage/Postgres/sql/array/remove.s\</tspan>
 <tspan x="10" y="1018">ql</tspan>
-<tspan x="10" y="1034"> 55.  2017-04-07 08:50:50 +0000      706 bytes  lib/Adapters/Storage/Postgres/sql/index.js</tspan>
-<tspan x="10" y="1050"> 56.  2017-04-07 08:50:50 +0000      486 bytes  lib/Adapters/Storage/Postgres/sql/misc/json-obje\</tspan>
+<tspan x="10" y="1034"> 55.  2017-04-07 08:52:52 +0000      706 bytes  lib/Adapters/Storage/Postgres/sql/index.js</tspan>
+<tspan x="10" y="1050"> 56.  2017-04-07 08:52:52 +0000      486 bytes  lib/Adapters/Storage/Postgres/sql/misc/json-obje\</tspan>
 <tspan x="10" y="1066">ct-set-keys.sql</tspan>
-<tspan x="10" y="1082"> 57.  2017-04-07 08:50:50 +0000     8191 bytes  lib/Auth.js</tspan>
-<tspan x="10" y="1098"> 58.  2017-04-07 08:50:50 +0000      941 bytes  lib/ClientSDK.js</tspan>
-<tspan x="10" y="1114"> 59.  2017-04-07 08:50:50 +0000    12606 bytes  lib/Config.js</tspan>
-<tspan x="10" y="1130"> 60.  2017-04-07 08:50:50 +0000     3510 bytes  lib/Controllers/AdaptableController.js</tspan>
-<tspan x="10" y="1146"> 61.  2017-04-07 08:50:50 +0000     3296 bytes  lib/Controllers/AnalyticsController.js</tspan>
-<tspan x="10" y="1162"> 62.  2017-04-07 08:50:50 +0000     4640 bytes  lib/Controllers/CacheController.js</tspan>
-<tspan x="10" y="1178"> 63.  2017-04-07 08:50:50 +0000    40948 bytes  lib/Controllers/DatabaseController.js</tspan>
-<tspan x="10" y="1194"> 64.  2017-04-07 08:50:50 +0000     6086 bytes  lib/Controllers/FilesController.js</tspan>
-<tspan x="10" y="1210"> 65.  2017-04-07 08:50:50 +0000     9267 bytes  lib/Controllers/HooksController.js</tspan>
-<tspan x="10" y="1226"> 66.  2017-04-07 08:50:50 +0000     2675 bytes  lib/Controllers/LiveQueryController.js</tspan>
-<tspan x="10" y="1242"> 67.  2017-04-07 08:50:50 +0000     8475 bytes  lib/Controllers/LoggerController.js</tspan>
-<tspan x="10" y="1258"> 68.  2017-04-07 08:50:50 +0000     5410 bytes  lib/Controllers/PushController.js</tspan>
-<tspan x="10" y="1274"> 69.  2017-04-07 08:50:50 +0000     3988 bytes  lib/Controllers/SchemaCache.js</tspan>
-<tspan x="10" y="1290"> 70.  2017-04-07 08:50:50 +0000    40352 bytes  lib/Controllers/SchemaController.js</tspan>
-<tspan x="10" y="1306"> 71.  2017-04-07 08:50:50 +0000    11676 bytes  lib/Controllers/UserController.js</tspan>
-<tspan x="10" y="1322"> 72.  2017-04-07 08:50:50 +0000     5414 bytes  lib/LiveQuery/Client.js</tspan>
-<tspan x="10" y="1338"> 73.  2017-04-07 08:50:50 +0000     1339 bytes  lib/LiveQuery/Id.js</tspan>
-<tspan x="10" y="1354"> 74.  2017-04-07 08:50:50 +0000     2735 bytes  lib/LiveQuery/ParseCloudCodePublisher.js</tspan>
-<tspan x="10" y="1370"> 75.  2017-04-07 08:50:50 +0000    33052 bytes  lib/LiveQuery/ParseLiveQueryServer.js</tspan>
-<tspan x="10" y="1386"> 76.  2017-04-07 08:50:50 +0000     1388 bytes  lib/LiveQuery/ParsePubSub.js</tspan>
-<tspan x="10" y="1402"> 77.  2017-04-07 08:50:50 +0000     2516 bytes  lib/LiveQuery/ParseWebSocketServer.js</tspan>
-<tspan x="10" y="1418"> 78.  2017-04-07 08:50:50 +0000     9136 bytes  lib/LiveQuery/QueryTools.js</tspan>
-<tspan x="10" y="1434"> 79.  2017-04-07 08:50:50 +0000     2824 bytes  lib/LiveQuery/RequestSchema.js</tspan>
-<tspan x="10" y="1450"> 80.  2017-04-07 08:50:50 +0000     3027 bytes  lib/LiveQuery/SessionTokenCache.js</tspan>
-<tspan x="10" y="1466"> 81.  2017-04-07 08:50:50 +0000     2580 bytes  lib/LiveQuery/Subscription.js</tspan>
-<tspan x="10" y="1482"> 82.  2017-04-07 08:50:50 +0000     1416 bytes  lib/LiveQuery/equalObjects.js</tspan>
-<tspan x="10" y="1498"> 83.  2017-04-07 08:50:50 +0000     1008 bytes  lib/ParseMessageQueue.js</tspan>
-<tspan x="10" y="1514"> 84.  2017-04-07 08:50:50 +0000    22462 bytes  lib/ParseServer.js</tspan>
-<tspan x="10" y="1530"> 85.  2017-04-07 08:50:50 +0000     3474 bytes  lib/ParseServerRESTController.js</tspan>
-<tspan x="10" y="1546"> 86.  2017-04-07 08:50:50 +0000    10059 bytes  lib/PromiseRouter.js</tspan>
-<tspan x="10" y="1562"> 87.  2017-04-07 08:50:50 +0000     3128 bytes  lib/Push/PushQueue.js</tspan>
-<tspan x="10" y="1578"> 88.  2017-04-07 08:50:50 +0000     4896 bytes  lib/Push/PushWorker.js</tspan>
-<tspan x="10" y="1594"> 89.  2017-04-07 08:50:50 +0000     1460 bytes  lib/Push/utils.js</tspan>
-<tspan x="10" y="1610"> 90.  2017-04-07 08:50:50 +0000    29748 bytes  lib/RestQuery.js</tspan>
-<tspan x="10" y="1626"> 91.  2017-04-07 08:50:50 +0000    39234 bytes  lib/RestWrite.js</tspan>
-<tspan x="10" y="1642"> 92.  2017-04-07 08:50:50 +0000     2706 bytes  lib/Routers/AnalyticsRouter.js</tspan>
-<tspan x="10" y="1658"> 93.  2017-04-07 08:50:50 +0000    10784 bytes  lib/Routers/ClassesRouter.js</tspan>
-<tspan x="10" y="1674"> 94.  2017-04-07 08:50:50 +0000     2743 bytes  lib/Routers/CloudCodeRouter.js</tspan>
-<tspan x="10" y="1690"> 95.  2017-04-07 08:50:50 +0000     3979 bytes  lib/Routers/FeaturesRouter.js</tspan>
-<tspan x="10" y="1706"> 96.  2017-04-07 08:50:50 +0000     8480 bytes  lib/Routers/FilesRouter.js</tspan>
-<tspan x="10" y="1722"> 97.  2017-04-07 08:50:50 +0000     8491 bytes  lib/Routers/FunctionsRouter.js</tspan>
-<tspan x="10" y="1738"> 98.  2017-04-07 08:50:50 +0000     4024 bytes  lib/Routers/GlobalConfigRouter.js</tspan>
-<tspan x="10" y="1754"> 99.  2017-04-07 08:50:50 +0000     7076 bytes  lib/Routers/HooksRouter.js</tspan>
-<tspan x="10" y="1770">100.  2017-04-07 08:50:50 +0000     6489 bytes  lib/Routers/IAPValidationRouter.js</tspan>
-<tspan x="10" y="1786">101.  2017-04-07 08:50:50 +0000     5449 bytes  lib/Routers/InstallationsRouter.js</tspan>
-<tspan x="10" y="1802">102.  2017-04-07 08:50:50 +0000     4276 bytes  lib/Routers/LogsRouter.js</tspan>
-<tspan x="10" y="1818">103.  2017-04-07 08:50:50 +0000     8576 bytes  lib/Routers/PublicAPIRouter.js</tspan>
-<tspan x="10" y="1834">104.  2017-04-07 08:50:50 +0000     3297 bytes  lib/Routers/PurgeRouter.js</tspan>
-<tspan x="10" y="1850">105.  2017-04-07 08:50:50 +0000     4531 bytes  lib/Routers/PushRouter.js</tspan>
-<tspan x="10" y="1866">106.  2017-04-07 08:50:50 +0000     4599 bytes  lib/Routers/RolesRouter.js</tspan>
-<tspan x="10" y="1882">107.  2017-04-07 08:50:50 +0000     5968 bytes  lib/Routers/SchemasRouter.js</tspan>
-<tspan x="10" y="1898">108.  2017-04-07 08:50:50 +0000     7416 bytes  lib/Routers/SessionsRouter.js</tspan>
-<tspan x="10" y="1914">109.  2017-04-07 08:50:50 +0000    15065 bytes  lib/Routers/UsersRouter.js</tspan>
-<tspan x="10" y="1930">110.  2017-04-07 08:50:50 +0000     7209 bytes  lib/StatusHandler.js</tspan>
-<tspan x="10" y="1946">111.  2017-04-07 08:50:50 +0000      729 bytes  lib/TestUtils.js</tspan>
-<tspan x="10" y="1962">112.  2017-04-07 08:50:50 +0000     3296 bytes  lib/batch.js</tspan>
-<tspan x="10" y="1978">113.  2017-04-07 08:50:50 +0000      285 bytes  lib/cache.js</tspan>
-<tspan x="10" y="1994">114.  2017-04-07 08:50:50 +0000     2528 bytes  lib/cli/definitions/parse-live-query-server.js</tspan>
-<tspan x="10" y="2010">115.  2017-04-07 08:50:50 +0000     8231 bytes  lib/cli/definitions/parse-server.js</tspan>
-<tspan x="10" y="2026">116.  2017-04-07 08:50:50 +0000      833 bytes  lib/cli/parse-live-query-server.js</tspan>
-<tspan x="10" y="2042">117.  2017-04-07 08:50:50 +0000     5744 bytes  lib/cli/parse-server.js</tspan>
-<tspan x="10" y="2058">118.  2017-04-07 08:50:50 +0000     4542 bytes  lib/cli/utils/commander.js</tspan>
-<tspan x="10" y="2074">119.  2017-04-07 08:50:50 +0000     1938 bytes  lib/cli/utils/parsers.js</tspan>
-<tspan x="10" y="2090">120.  2017-04-07 08:50:50 +0000     1476 bytes  lib/cli/utils/runner.js</tspan>
-<tspan x="10" y="2106">121.  2017-04-07 08:50:50 +0000     1703 bytes  lib/cloud-code/HTTPResponse.js</tspan>
-<tspan x="10" y="2122">122.  2017-04-07 08:50:50 +0000     2867 bytes  lib/cloud-code/Parse.Cloud.js</tspan>
-<tspan x="10" y="2138">123.  2017-04-07 08:50:50 +0000     3578 bytes  lib/cloud-code/httpRequest.js</tspan>
-<tspan x="10" y="2154">124.  2017-04-07 08:50:50 +0000     1767 bytes  lib/cryptoUtils.js</tspan>
-<tspan x="10" y="2170">125.  2017-04-07 08:50:50 +0000     1170 bytes  lib/defaults.js</tspan>
-<tspan x="10" y="2186">126.  2017-04-07 08:50:50 +0000      276 bytes  lib/deprecated.js</tspan>
-<tspan x="10" y="2202">127.  2017-04-07 08:50:50 +0000     2642 bytes  lib/index.js</tspan>
-<tspan x="10" y="2218">128.  2017-04-07 08:50:50 +0000     1161 bytes  lib/logger.js</tspan>
-<tspan x="10" y="2234">129.  2017-04-07 08:50:50 +0000     9622 bytes  lib/middlewares.js</tspan>
-<tspan x="10" y="2250">130.  2017-04-07 08:50:50 +0000     1050 bytes  lib/password.js</tspan>
-<tspan x="10" y="2266">131.  2017-04-07 08:50:50 +0000      149 bytes  lib/requiredParameter.js</tspan>
-<tspan x="10" y="2282">132.  2017-04-07 08:50:50 +0000     5919 bytes  lib/rest.js</tspan>
-<tspan x="10" y="2298">133.  2017-04-07 08:50:50 +0000    14409 bytes  lib/triggers.js</tspan>
-<tspan x="10" y="2314">134.  2017-04-07 08:50:50 +0000      389 bytes  lib/vendor/README.md</tspan>
-<tspan x="10" y="2330">135.  2017-04-07 08:50:50 +0000    29039 bytes  lib/vendor/mongodbUrl.js</tspan>
-<tspan x="10" y="2346">136.  2017-04-07 08:50:50 +0000     4660 bytes  package.json</tspan>
-<tspan x="10" y="2362">137.  2017-04-07 08:50:50 +0000     1187 bytes  public_html/invalid_link.html</tspan>
-<tspan x="10" y="2378">138.  2017-04-07 08:50:50 +0000      804 bytes  public_html/password_reset_success.html</tspan>
-<tspan x="10" y="2394">139.  2017-04-07 08:50:50 +0000      805 bytes  public_html/verify_email_success.html</tspan>
-<tspan x="10" y="2410">140.  2017-04-07 08:50:50 +0000     6238 bytes  views/choose_password</tspan>
+<tspan x="10" y="1082"> 57.  2017-04-07 08:52:52 +0000     8191 bytes  lib/Auth.js</tspan>
+<tspan x="10" y="1098"> 58.  2017-04-07 08:52:52 +0000      941 bytes  lib/ClientSDK.js</tspan>
+<tspan x="10" y="1114"> 59.  2017-04-07 08:52:52 +0000    12606 bytes  lib/Config.js</tspan>
+<tspan x="10" y="1130"> 60.  2017-04-07 08:52:52 +0000     3510 bytes  lib/Controllers/AdaptableController.js</tspan>
+<tspan x="10" y="1146"> 61.  2017-04-07 08:52:52 +0000     3296 bytes  lib/Controllers/AnalyticsController.js</tspan>
+<tspan x="10" y="1162"> 62.  2017-04-07 08:52:52 +0000     4640 bytes  lib/Controllers/CacheController.js</tspan>
+<tspan x="10" y="1178"> 63.  2017-04-07 08:52:52 +0000    40948 bytes  lib/Controllers/DatabaseController.js</tspan>
+<tspan x="10" y="1194"> 64.  2017-04-07 08:52:52 +0000     6086 bytes  lib/Controllers/FilesController.js</tspan>
+<tspan x="10" y="1210"> 65.  2017-04-07 08:52:52 +0000     9267 bytes  lib/Controllers/HooksController.js</tspan>
+<tspan x="10" y="1226"> 66.  2017-04-07 08:52:52 +0000     2675 bytes  lib/Controllers/LiveQueryController.js</tspan>
+<tspan x="10" y="1242"> 67.  2017-04-07 08:52:52 +0000     8475 bytes  lib/Controllers/LoggerController.js</tspan>
+<tspan x="10" y="1258"> 68.  2017-04-07 08:52:52 +0000     5410 bytes  lib/Controllers/PushController.js</tspan>
+<tspan x="10" y="1274"> 69.  2017-04-07 08:52:52 +0000     3988 bytes  lib/Controllers/SchemaCache.js</tspan>
+<tspan x="10" y="1290"> 70.  2017-04-07 08:52:52 +0000    40352 bytes  lib/Controllers/SchemaController.js</tspan>
+<tspan x="10" y="1306"> 71.  2017-04-07 08:52:52 +0000    11676 bytes  lib/Controllers/UserController.js</tspan>
+<tspan x="10" y="1322"> 72.  2017-04-07 08:52:52 +0000     5414 bytes  lib/LiveQuery/Client.js</tspan>
+<tspan x="10" y="1338"> 73.  2017-04-07 08:52:52 +0000     1339 bytes  lib/LiveQuery/Id.js</tspan>
+<tspan x="10" y="1354"> 74.  2017-04-07 08:52:52 +0000     2735 bytes  lib/LiveQuery/ParseCloudCodePublisher.js</tspan>
+<tspan x="10" y="1370"> 75.  2017-04-07 08:52:52 +0000    33052 bytes  lib/LiveQuery/ParseLiveQueryServer.js</tspan>
+<tspan x="10" y="1386"> 76.  2017-04-07 08:52:52 +0000     1388 bytes  lib/LiveQuery/ParsePubSub.js</tspan>
+<tspan x="10" y="1402"> 77.  2017-04-07 08:52:52 +0000     2516 bytes  lib/LiveQuery/ParseWebSocketServer.js</tspan>
+<tspan x="10" y="1418"> 78.  2017-04-07 08:52:52 +0000     9136 bytes  lib/LiveQuery/QueryTools.js</tspan>
+<tspan x="10" y="1434"> 79.  2017-04-07 08:52:52 +0000     2824 bytes  lib/LiveQuery/RequestSchema.js</tspan>
+<tspan x="10" y="1450"> 80.  2017-04-07 08:52:52 +0000     3027 bytes  lib/LiveQuery/SessionTokenCache.js</tspan>
+<tspan x="10" y="1466"> 81.  2017-04-07 08:52:52 +0000     2580 bytes  lib/LiveQuery/Subscription.js</tspan>
+<tspan x="10" y="1482"> 82.  2017-04-07 08:52:52 +0000     1416 bytes  lib/LiveQuery/equalObjects.js</tspan>
+<tspan x="10" y="1498"> 83.  2017-04-07 08:52:52 +0000     1008 bytes  lib/ParseMessageQueue.js</tspan>
+<tspan x="10" y="1514"> 84.  2017-04-07 08:52:52 +0000    22462 bytes  lib/ParseServer.js</tspan>
+<tspan x="10" y="1530"> 85.  2017-04-07 08:52:52 +0000     3474 bytes  lib/ParseServerRESTController.js</tspan>
+<tspan x="10" y="1546"> 86.  2017-04-07 08:52:52 +0000    10059 bytes  lib/PromiseRouter.js</tspan>
+<tspan x="10" y="1562"> 87.  2017-04-07 08:52:52 +0000     3128 bytes  lib/Push/PushQueue.js</tspan>
+<tspan x="10" y="1578"> 88.  2017-04-07 08:52:52 +0000     4896 bytes  lib/Push/PushWorker.js</tspan>
+<tspan x="10" y="1594"> 89.  2017-04-07 08:52:52 +0000     1460 bytes  lib/Push/utils.js</tspan>
+<tspan x="10" y="1610"> 90.  2017-04-07 08:52:52 +0000    29748 bytes  lib/RestQuery.js</tspan>
+<tspan x="10" y="1626"> 91.  2017-04-07 08:52:52 +0000    39234 bytes  lib/RestWrite.js</tspan>
+<tspan x="10" y="1642"> 92.  2017-04-07 08:52:52 +0000     2706 bytes  lib/Routers/AnalyticsRouter.js</tspan>
+<tspan x="10" y="1658"> 93.  2017-04-07 08:52:52 +0000    10784 bytes  lib/Routers/ClassesRouter.js</tspan>
+<tspan x="10" y="1674"> 94.  2017-04-07 08:52:52 +0000     2743 bytes  lib/Routers/CloudCodeRouter.js</tspan>
+<tspan x="10" y="1690"> 95.  2017-04-07 08:52:52 +0000     3979 bytes  lib/Routers/FeaturesRouter.js</tspan>
+<tspan x="10" y="1706"> 96.  2017-04-07 08:52:52 +0000     8480 bytes  lib/Routers/FilesRouter.js</tspan>
+<tspan x="10" y="1722"> 97.  2017-04-07 08:52:52 +0000     8491 bytes  lib/Routers/FunctionsRouter.js</tspan>
+<tspan x="10" y="1738"> 98.  2017-04-07 08:52:52 +0000     4024 bytes  lib/Routers/GlobalConfigRouter.js</tspan>
+<tspan x="10" y="1754"> 99.  2017-04-07 08:52:52 +0000     7076 bytes  lib/Routers/HooksRouter.js</tspan>
+<tspan x="10" y="1770">100.  2017-04-07 08:52:52 +0000     6489 bytes  lib/Routers/IAPValidationRouter.js</tspan>
+<tspan x="10" y="1786">101.  2017-04-07 08:52:52 +0000     5449 bytes  lib/Routers/InstallationsRouter.js</tspan>
+<tspan x="10" y="1802">102.  2017-04-07 08:52:52 +0000     4276 bytes  lib/Routers/LogsRouter.js</tspan>
+<tspan x="10" y="1818">103.  2017-04-07 08:52:52 +0000     8576 bytes  lib/Routers/PublicAPIRouter.js</tspan>
+<tspan x="10" y="1834">104.  2017-04-07 08:52:52 +0000     3297 bytes  lib/Routers/PurgeRouter.js</tspan>
+<tspan x="10" y="1850">105.  2017-04-07 08:52:52 +0000     4531 bytes  lib/Routers/PushRouter.js</tspan>
+<tspan x="10" y="1866">106.  2017-04-07 08:52:52 +0000     4599 bytes  lib/Routers/RolesRouter.js</tspan>
+<tspan x="10" y="1882">107.  2017-04-07 08:52:52 +0000     5968 bytes  lib/Routers/SchemasRouter.js</tspan>
+<tspan x="10" y="1898">108.  2017-04-07 08:52:52 +0000     7416 bytes  lib/Routers/SessionsRouter.js</tspan>
+<tspan x="10" y="1914">109.  2017-04-07 08:52:52 +0000    15065 bytes  lib/Routers/UsersRouter.js</tspan>
+<tspan x="10" y="1930">110.  2017-04-07 08:52:52 +0000     7209 bytes  lib/StatusHandler.js</tspan>
+<tspan x="10" y="1946">111.  2017-04-07 08:52:52 +0000      729 bytes  lib/TestUtils.js</tspan>
+<tspan x="10" y="1962">112.  2017-04-07 08:52:52 +0000     3296 bytes  lib/batch.js</tspan>
+<tspan x="10" y="1978">113.  2017-04-07 08:52:52 +0000      285 bytes  lib/cache.js</tspan>
+<tspan x="10" y="1994">114.  2017-04-07 08:52:52 +0000     2528 bytes  lib/cli/definitions/parse-live-query-server.js</tspan>
+<tspan x="10" y="2010">115.  2017-04-07 08:52:52 +0000     8231 bytes  lib/cli/definitions/parse-server.js</tspan>
+<tspan x="10" y="2026">116.  2017-04-07 08:52:52 +0000      833 bytes  lib/cli/parse-live-query-server.js</tspan>
+<tspan x="10" y="2042">117.  2017-04-07 08:52:52 +0000     5744 bytes  lib/cli/parse-server.js</tspan>
+<tspan x="10" y="2058">118.  2017-04-07 08:52:52 +0000     4542 bytes  lib/cli/utils/commander.js</tspan>
+<tspan x="10" y="2074">119.  2017-04-07 08:52:52 +0000     1938 bytes  lib/cli/utils/parsers.js</tspan>
+<tspan x="10" y="2090">120.  2017-04-07 08:52:52 +0000     1476 bytes  lib/cli/utils/runner.js</tspan>
+<tspan x="10" y="2106">121.  2017-04-07 08:52:52 +0000     1703 bytes  lib/cloud-code/HTTPResponse.js</tspan>
+<tspan x="10" y="2122">122.  2017-04-07 08:52:52 +0000     2867 bytes  lib/cloud-code/Parse.Cloud.js</tspan>
+<tspan x="10" y="2138">123.  2017-04-07 08:52:52 +0000     3578 bytes  lib/cloud-code/httpRequest.js</tspan>
+<tspan x="10" y="2154">124.  2017-04-07 08:52:52 +0000     1767 bytes  lib/cryptoUtils.js</tspan>
+<tspan x="10" y="2170">125.  2017-04-07 08:52:52 +0000     1170 bytes  lib/defaults.js</tspan>
+<tspan x="10" y="2186">126.  2017-04-07 08:52:52 +0000      276 bytes  lib/deprecated.js</tspan>
+<tspan x="10" y="2202">127.  2017-04-07 08:52:52 +0000     2642 bytes  lib/index.js</tspan>
+<tspan x="10" y="2218">128.  2017-04-07 08:52:52 +0000     1161 bytes  lib/logger.js</tspan>
+<tspan x="10" y="2234">129.  2017-04-07 08:52:52 +0000     9622 bytes  lib/middlewares.js</tspan>
+<tspan x="10" y="2250">130.  2017-04-07 08:52:52 +0000     1050 bytes  lib/password.js</tspan>
+<tspan x="10" y="2266">131.  2017-04-07 08:52:52 +0000      149 bytes  lib/requiredParameter.js</tspan>
+<tspan x="10" y="2282">132.  2017-04-07 08:52:52 +0000     5919 bytes  lib/rest.js</tspan>
+<tspan x="10" y="2298">133.  2017-04-07 08:52:52 +0000    14409 bytes  lib/triggers.js</tspan>
+<tspan x="10" y="2314">134.  2017-04-07 08:52:52 +0000      389 bytes  lib/vendor/README.md</tspan>
+<tspan x="10" y="2330">135.  2017-04-07 08:52:52 +0000    29039 bytes  lib/vendor/mongodbUrl.js</tspan>
+<tspan x="10" y="2346">136.  2017-04-07 08:52:52 +0000     4660 bytes  package.json</tspan>
+<tspan x="10" y="2362">137.  2017-04-07 08:52:52 +0000     1187 bytes  public_html/invalid_link.html</tspan>
+<tspan x="10" y="2378">138.  2017-04-07 08:52:52 +0000      804 bytes  public_html/password_reset_success.html</tspan>
+<tspan x="10" y="2394">139.  2017-04-07 08:52:52 +0000      805 bytes  public_html/verify_email_success.html</tspan>
+<tspan x="10" y="2410">140.  2017-04-07 08:52:52 +0000     6238 bytes  views/choose_password</tspan>
 </text>
 </svg>
